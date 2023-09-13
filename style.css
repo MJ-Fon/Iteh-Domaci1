@@ -1,0 +1,156 @@
+.header {
+  width: 100%;
+}
+/*
+body{
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+  padding: 2px 20px;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav li {
+  list-style-type: none;
+}
+
+#title {
+  text-align: center;
+}
+
+#title h1 {
+  font-size: 45px;
+}
+
+#title h3 {
+  color: rgb(139, 69, 19);
+}
+
+#n {
+  height: 80px;
+  padding: 8px;
+}
+
+#c {
+  text-align: center;
+  color: rgb(139, 69, 19);
+}
+
+p {
+  padding: 10px 100px 10px 100px;
+}
+
+#footer {
+  text-align: center;
+}
+
+body {
+  background-color: white;
+}
+
+.breakDiv {
+  height: 150px;
+}
+
+.gameForm {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.product img {
+  height: 150px;
+}
+
+.product p {
+  margin: 0;
+  padding: 0;
+}
+
+.product {
+  text-align: center;
+  flex-basis: 25%
+}
+
+.allProducts {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 50px;
+}
+
+#motw {
+  height: 100px;
+  margin-top: 20px;
+}
+
+#pr {
+  background-color: rgb(139, 69, 19);
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 20px;
+  margin: 2px 2px;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#t {
+  background-color: rgb(139, 69, 19);
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 20px;
+  margin: 2px 2px;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#cv {
+  background-color: rgb(139, 69, 19);
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 20px;
+  margin: 2px 2px;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#c {
+  text-align: center;
+}
+
+@media only screen and (max-width: 800px) {
+  .product {
+    text-align: center;
+    flex-basis: 50%;
+    }
+}
+
+.nameSort:hover, .priceSort:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.game-image {
+  transition: transform .3s ease;
+}
+
+.game-image:hover {
+  transform: scale(1.1);
+}
+
+*/

@@ -1,0 +1,28 @@
+/*
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 15px;
+  }
+
+  th {
+    text-align: left;
+  }
+
+  table {
+    border-spacing: 5px;
+    width: 100%;
+    background-color: rgba(245, 189, 94, 0.702);
+  }
+
+  #baryte{
+    width: 100px  ;
+  }
+
+  #brDiv{
+    height:150px;
+  }
+  */
