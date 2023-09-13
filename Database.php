@@ -3,12 +3,12 @@
 if (session_status() == PHP_SESSION_NONE) {
   session_start();
 }
-
+//Baza i CRUD operacije +
 class Database {
-  private $host = "localhost"; // Host
-  private $db_name = "games"; // DB Name
-  private $username = "root"; // DB Username
-  private $password = ""; // DB Password
+  private $host = "localhost"; 
+  private $db_name = "games"; 
+  private $username = "root"; 
+  private $password = ""; 
 
   private static $instance = null; // Instanca klase
   public $connection = null; // Konekcija

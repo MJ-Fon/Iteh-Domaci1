@@ -46,8 +46,8 @@ $games = Database::getInstance()->getAllGames();
   </div>
 
     <br>
-    <h3 style="color:rgb(120,56,10)">Pretraži: <input type="text" class="searchInput"></h3>
-    <h3 style="color:rgb(120,56,10)">Sortiraj po: <span class="nameSort">Naziv</span> | <span class="priceSort">Cena</span></h3> <br>
+    <h3 style="color:rgb(120,56,10); margin-left: 5px" >Pretraži: <input type="text" class="searchInput"></h3>
+    <h3 style="color:rgb(120,56,10); margin-left: 5px">Sortiraj po: <span class="nameSort">Naziv</span> | <span class="priceSort">Cena</span></h3> <br>
     <br>
     
   
@@ -83,7 +83,8 @@ Naša stranica je posebno osmišljena kako bismo vam pomogli da pronađete savr�
   <div class="breakDiv"></div>
 
   <div id="footer">
-    <h4 style="color:rgb(139, 69, 19)";>GAMES GROUP<br>
+    <img src="pac.png" alt="kraj" id="nnn">
+    <h4 style="color:rgb(139, 69, 19)";>*GAMES GROUP*<br>
     <br>Zainteresovani za kupovinu ili saradnju se mogu javiti na: <br>
     <br>Mobile: 011 9999 999<br>
     <br>Email: gamesgroup.rs@gmail.com</h4>

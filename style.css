@@ -1,10 +1,11 @@
 .header {
   width: 100%;
 }
-/*
+
 body{
     padding: 0;
     margin: 0;
+    margin-left: 8px;
 }
 
 nav {
@@ -35,6 +36,11 @@ nav li {
 }
 
 #n {
+  height: 80px;
+  padding: 8px;
+}
+
+#nnn {
   height: 80px;
   padding: 8px;
 }
@@ -153,4 +159,3 @@ body {
   transform: scale(1.1);
 }
 
-*/
